@@ -30,7 +30,7 @@ Made by Mateo Velez - Metavix for Ubidots Inc
 #include <string.h>
 #include <SPI.h>
 
-#include <WiFi.h>
+#include <WiFi101.h>
 
 #define SERVER "things.ubidots.com"
 #define PORT 80
